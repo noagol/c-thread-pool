@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/noa/Documents/project/o-s/ex44
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="ex44" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ex44">
+         <Option output="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/ex44" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex44" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ex44/fast">
+         <Option output="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/ex44" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex44/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/main.c">
+         <Option target="ex44"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/osqueue.c">
+         <Option target="ex44"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/osqueue.h">
+         <Option target="ex44"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/threadPool.c">
+         <Option target="ex44"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/threadPool.h">
+         <Option target="ex44"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/noa/Documents/project/o-s/ex44/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

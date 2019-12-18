@@ -1,0 +1,3 @@
+/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/users/noa/Documents/project/o-s/ex44/cmake-build-debug/CMakeFiles/ex44.dir
